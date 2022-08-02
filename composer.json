@@ -1,5 +1,5 @@
 {
-    "name": "devnet/installer",
+    "name": "devnet/plugin",
     "description": "The DevNet Template Installer",
     "type": "composer-plugin",
     "license": "MIT",
